@@ -1,2 +1,3 @@
-require('ryan.core')
-require('ryan.lazy')
+require("ryan.core")
+require("ryan.lazy")
+require("post-setup")

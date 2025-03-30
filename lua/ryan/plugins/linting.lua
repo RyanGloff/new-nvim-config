@@ -1,3 +1,5 @@
+return {}
+--[[
 return {
   "mfussenegger/nvim-lint",
   event = { "BufReadPre", "BufNewFile" },
@@ -24,3 +26,4 @@ return {
     end, { desc = "Trigger linting for current file" })
   end,
 }
+]]
