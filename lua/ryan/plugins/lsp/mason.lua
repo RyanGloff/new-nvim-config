@@ -22,10 +22,10 @@ return {
 		mason_lspconfig.setup({
 			ensure_installed = {
 				"bashls",
-				"clangd",
 				"cssls",
 				"dockerls",
 				"html",
+				"lemminx",
 				"lua_ls",
 				"ts_ls",
 				"jqls",
