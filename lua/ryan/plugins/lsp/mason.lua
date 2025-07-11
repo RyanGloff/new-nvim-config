@@ -28,7 +28,6 @@ return {
 				"lemminx",
 				"lua_ls",
 				"jdtls",
-				"jqls",
 				"jsonls",
 				"markdown_oxide",
 				"sqlls",
